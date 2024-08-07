@@ -1,0 +1,9 @@
+1,Veg pizza,200
+2,Garlic bread,250
+3,Chicken pizza,350
+4,Paneer tika,100
+5,chicken biriyani,150
+6,Ice cream,100
+7,Momos,30
+9,Chicken Roll,60
+10,Chicken patties,40
